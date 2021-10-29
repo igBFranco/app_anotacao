@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     view:{
         backgroundColor:'rgb(85,50,168)', 
         padding:20, 
-        width:'100%'
+        width:'100%',
     },
 
     textStyle:{
