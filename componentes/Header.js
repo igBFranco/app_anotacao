@@ -5,7 +5,7 @@ const Header = () => {
 
         return(
             <View style={styles.view}>
-                <Text style={styles.textStyle}>App Música</Text>
+                <Text style={styles.textStyle}>Primeiro App</Text>
             </View>
         );
 
