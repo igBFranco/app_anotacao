@@ -1,4 +1,4 @@
-# Aplicativo de Anotação
+# Aplicativo de Anotação :page_with_curl:
 Aplicativo de Anotação Desenvolvido no Curso de Desenvolvimento de Aplicativos da Danki Code utilizando React Native e Expo.
 
 ## Screenshot
